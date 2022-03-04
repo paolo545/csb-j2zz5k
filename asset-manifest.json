@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://paolo545.github.io/csb-j2zz5k/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://paolo545.github.io/csb-j2zz5k/static/js/main.0b5f0926.chunk.js",
-    "main.js.map": "https://paolo545.github.io/csb-j2zz5k/static/js/main.0b5f0926.chunk.js.map",
+    "main.js": "https://paolo545.github.io/csb-j2zz5k/static/js/main.36c0273c.chunk.js",
+    "main.js.map": "https://paolo545.github.io/csb-j2zz5k/static/js/main.36c0273c.chunk.js.map",
     "runtime-main.js": "https://paolo545.github.io/csb-j2zz5k/static/js/runtime-main.1d2af050.js",
     "runtime-main.js.map": "https://paolo545.github.io/csb-j2zz5k/static/js/runtime-main.1d2af050.js.map",
-    "static/js/2.31ab988b.chunk.js": "https://paolo545.github.io/csb-j2zz5k/static/js/2.31ab988b.chunk.js",
-    "static/js/2.31ab988b.chunk.js.map": "https://paolo545.github.io/csb-j2zz5k/static/js/2.31ab988b.chunk.js.map",
+    "static/js/2.79a92720.chunk.js": "https://paolo545.github.io/csb-j2zz5k/static/js/2.79a92720.chunk.js",
+    "static/js/2.79a92720.chunk.js.map": "https://paolo545.github.io/csb-j2zz5k/static/js/2.79a92720.chunk.js.map",
     "index.html": "https://paolo545.github.io/csb-j2zz5k/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://paolo545.github.io/csb-j2zz5k/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.31ab988b.chunk.js.LICENSE.txt": "https://paolo545.github.io/csb-j2zz5k/static/js/2.31ab988b.chunk.js.LICENSE.txt"
+    "static/js/2.79a92720.chunk.js.LICENSE.txt": "https://paolo545.github.io/csb-j2zz5k/static/js/2.79a92720.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1d2af050.js",
-    "static/js/2.31ab988b.chunk.js",
+    "static/js/2.79a92720.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.0b5f0926.chunk.js"
+    "static/js/main.36c0273c.chunk.js"
   ]
 }
